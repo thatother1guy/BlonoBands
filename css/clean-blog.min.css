@@ -85,3 +85,11 @@
     margin-top: 10px;
 }
 
+.logo-img
+{
+    width: 96px;
+    height: 96px;
+    margin: 0 auto;
+    display: block;
+    
+}
