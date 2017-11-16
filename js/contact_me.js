@@ -17,8 +17,6 @@ $(function() {
        var name = $("input#name").val();
        var email = $("input#email").val();
        var message = $("input#message").val();
-       var password = $("input#password").val();
-       var confirmpassword = $("input#confirmpassword").val();
        var venue = $("input#venue").val();
        var venueAddress = $("input#venueAddress").val();
        var firstName = name; // For Success/Failure Message
@@ -30,8 +28,6 @@ $(function() {
                   name: name,
                   email: email,
                   message: message,
-                  password: password,
-                  confirmpassword: confirmpassword,
                   venue: venue,
                   venueAddress: venueAddress
                     },
