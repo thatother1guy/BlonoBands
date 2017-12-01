@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f48d7bf8-fc35-4b55-a8ae-563835026baa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venue.html" afterPath="$PROJECT_DIR$/venue.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +18,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="94" column="99" lean-forward="false" selection-start-line="94" selection-start-column="99" selection-end-line="94" selection-end-column="99" />
+            <state relative-caret-position="704">
+              <caret line="119" column="12" lean-forward="false" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -27,8 +38,18 @@
       <file leaf-file-name="venue.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="102" column="64" lean-forward="false" selection-start-line="102" selection-start-column="64" selection-end-line="102" selection-end-column="64" />
+            <state relative-caret-position="784">
+              <caret line="114" column="14" lean-forward="false" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="host.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/host.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -60,12 +81,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/js/contact_me.js" />
-        <option value="$PROJECT_DIR$/host.html" />
         <option value="$PROJECT_DIR$/js/host.js" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/mail/host.php" />
+        <option value="$PROJECT_DIR$/host.html" />
+        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/venue.html" />
       </list>
@@ -240,12 +261,12 @@
       <workItem from="1511911341408" duration="1499000" />
       <workItem from="1511983092705" duration="180000" />
       <workItem from="1512003553797" duration="52000" />
-      <workItem from="1512086394363" duration="953000" />
+      <workItem from="1512086394363" duration="2144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6154000" />
+    <option name="totallyTimeSpent" value="7345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1288" height="988" extended-state="6" />
@@ -392,32 +413,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/host.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="94" column="16" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        <state relative-caret-position="176">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/host.html">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1244">
-          <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+        <state relative-caret-position="176">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="94" column="99" lean-forward="false" selection-start-line="94" selection-start-column="99" selection-end-line="94" selection-end-column="99" />
+        <state relative-caret-position="704">
+          <caret line="119" column="12" lean-forward="false" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="102" column="64" lean-forward="false" selection-start-line="102" selection-start-column="64" selection-end-line="102" selection-end-column="64" />
+        <state relative-caret-position="784">
+          <caret line="114" column="14" lean-forward="false" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
           <folding />
         </state>
       </provider>
